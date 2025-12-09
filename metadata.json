@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Controlled Circular Gallery",
+  "description": "A 3D circular gallery controlled by hand gestures using MediaPipe and OGL.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
